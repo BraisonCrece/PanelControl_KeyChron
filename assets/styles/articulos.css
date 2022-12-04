@@ -1,0 +1,40 @@
+.galeria {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.galeria .card_articulo {
+  height: 310px;
+  width: 246px;
+  border: 1px solid rgba(128, 128, 128, 0.44);
+  border-radius: 10px;
+  transition: all 0.3s ease;
+}
+
+.galeria .card_articulo:hover {
+  cursor: pointer;
+  background-color: white;
+  z-index: 1;
+  transform: scale(1.1);
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+}
+
+.galeria .no_button {
+  border: none;
+  background: none;
+  padding: 0;
+  outline: none;
+}
+
+#centro {
+  margin: 0 auto !important;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin-top: 10rem;
+  margin-bottom: 20rem !important;
+}
+
+.opcions {
+  margin-top: 3rem;
+}
