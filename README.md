@@ -7,7 +7,7 @@ Panel de control para unha `tenda de aluguer` de productos keychron:
 + CSS3 
 + JavaScript
 
-
+En canto remate os exames farei deploy.
 (Que bonitos son os KeyChron! :fire:) 
 ![image](https://user-images.githubusercontent.com/104019638/206056807-3859e9c9-88c9-4e7b-8dd5-e84a15469372.png)
 
